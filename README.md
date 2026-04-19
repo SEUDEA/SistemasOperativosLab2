@@ -9,7 +9,6 @@ Sistemas Operativos – 2026
 | Nombre completo | Correo | N° de documento |
 |-----------------|--------|-----------------|
 | Mateo Aguirre Duque | mateo.aguirre@udea.edu.co | CC 1152472114 |
-| Adelaida Rodríguez García | adelaida.rodriguez@udea.edu.co | CC 1033377815 |
 
 ---
 
