@@ -258,7 +258,7 @@ echo "" | ./wish
 
 ## (e) Video de sustentación
 
-[Enlace al video – pendiente de publicar]
+[Enlace al video](https://youtu.be/EgbYIdiSndg)
 
 ---
 
